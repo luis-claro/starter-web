@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Luis Claro  luischavesclaro@gmail.com
 
 # THANKS
 
